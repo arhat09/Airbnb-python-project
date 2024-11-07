@@ -75,23 +75,6 @@ The dataset contains 20,765 records with 22 features, including:
 - **Host Activity**:
   - Some hosts manage multiple listings, indicating a shift toward professional hosting.
 
-## How to Run This Project
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024.git
-   ```
-
-2. **Install Required Libraries**:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-
-3. **Run the Analysis**:
-   Open the Jupyter notebook or execute the Python script:
-   ```bash
-   jupyter notebook day23_airbnb_eda.ipynb
-   ```
 
 ## Recommendations
 
